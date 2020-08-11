@@ -1,2 +1,2 @@
-# jmeter
-jmeter scripts
+# Jmeter
+Jmeter Scripts for load testing
